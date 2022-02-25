@@ -1,4 +1,4 @@
-### Hi there, I'm Danilo Henrique 👋
+### <h1>Hi there, I'm Danilo Henrique 👋</h1>
 
 - 🔭 Currently looking for a job.
 - 🌱 Currently learning Python.
